@@ -20,7 +20,6 @@ Pillow==9.0.1
 pipenv==2022.1.8
 pipwin==0.5.1
 platformdirs==2.5.0
-PyAudio @ file:///C:/Users/Karim%20Aboelazm/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pyjsparser==2.7.1
 pyparsing==3.0.7
 pypiwin32==223
